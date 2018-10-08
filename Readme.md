@@ -21,6 +21,10 @@ Start the `nodejs` server
 
     npm start
 
+Or, to start the server with debug messages
+
+    DEBUG=cuair:* npm start
+
 App can be browsed at `http://localhost:3000`.
 
 # Test
